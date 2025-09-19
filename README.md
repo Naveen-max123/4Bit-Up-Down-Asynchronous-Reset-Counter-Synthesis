@@ -1,5 +1,5 @@
 # 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
-
+ 
 ## Aim:
 
 Synthesize 4Bit-Up-Down-Asynchronous-Reset-Counter design using Constraints and analyse reports, Timing, area and Power.
